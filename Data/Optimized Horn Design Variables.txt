@@ -1,0 +1,15 @@
+horn_height = 0.0031;             % Height of acoustic housing (m)
+horn_shape.r_top = 0.0018;                % Top radius
+horn_shape.p = 4.9299;                        % Ellipsoid exponent p
+horn_shape.q = 6.5188;                        % Ellipsoid exponent q
+horn_shape.r = 2.3663;                        % Ellipsoid exponent r
+horn_shape.A_theta = 0;       % Azimuthal modulation amplitude
+horn_shape.m_theta = 0;         % Azimuthal mode number
+horn_shape.A_x = 0;           % X-direction modulation
+horn_shape.A_y = 0;           % Y-direction modulation
+horn_shape.A_z = 0;           % Z-direction modulation
+horn_shape.m_z = 0;             % Z-direction mode number
+dx_top    = 0;
+dy_top    = 0;
+exit_tilt_x = 0;   % radians
+exit_tilt_y = 0;   % radians
